@@ -13,7 +13,8 @@ body {
 .reference-link-img img {
   width: 100%;
 }
-.reference-link-img .more-inf {
+.reference-link-img,
+.more-inf {
   font-family: fantasy, cursive;
 }
 
